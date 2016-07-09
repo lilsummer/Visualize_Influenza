@@ -13,6 +13,7 @@ The data was downloaded from the webside of [World Health Organization][df1], ma
 Please note:
 
   - Some countries do not have reported the activity, thus you might see no bar in the graph.
+  - Try to click on countries with reports, such as Australia, Combodia, etc
 
 
 
