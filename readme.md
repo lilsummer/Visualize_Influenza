@@ -1,6 +1,6 @@
 # Shiny App - Visualization of global influenza surveillance
 
-This is a simple App to show the influenza surveillanec data worldwide. You can:
+[This is a simple App][df3] to show the influenza surveillanec data worldwide. You can:
 
   - Select the country you want to check on the drop-down menu;
   - See case number of different types of influenza in the barplot (intereactive);
@@ -21,4 +21,5 @@ Please note:
 
    [df1]: <http://www.who.int/en/>
    [df2]: <http://gamapserver.who.int/gareports/Default.aspx?ReportNo=2>
+   [df3]: <http://lilsummer.shinyapps.io/fluGraph/>
   # shinyApps
